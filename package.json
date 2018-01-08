@@ -1,0 +1,29 @@
+{
+  "name": "insertion-sort",
+  "version": "1.0.0",
+  "description": "A library of common insertion sort algorithms",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasey8540/insertion-sort.git"
+  },
+  "keywords": [
+    "sort",
+    "sorting",
+    "insertion",
+    "sort",
+    "algorithm"
+  ],
+  "author": "Mike Casey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcasey8540/insertion-sort/issues"
+  },
+  "homepage": "https://github.com/mcasey8540/insertion-sort#readme"
+}
