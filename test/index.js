@@ -1,5 +1,5 @@
 import test from 'ava';
-const insertionSort = require('../packages/index');
+const insertionSort = require('../index');
 
 test(`sorts an array of numbers`, t => {
 	let arr = [5, 2, 4, 6, 1, 3];
