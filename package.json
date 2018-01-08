@@ -1,7 +1,7 @@
 {
   "name": "insertion-sort",
   "version": "1.0.0",
-  "description": "A library of common insertion sort algorithms",
+  "description": "A library of dependency-free common insertion sort algorithms",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/mcasey8540/insertion-sort/issues"
   },
-  "homepage": "https://github.com/mcasey8540/insertion-sort#readme"
+  "homepage": "https://github.com/mcasey8540/insertion-sort#readme",
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
 }
