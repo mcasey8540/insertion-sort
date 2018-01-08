@@ -1,0 +1,26 @@
+{
+  "name": "insertion-sort-descending",
+  "version": "1.0.0",
+  "description": "Sort an array by descending values via insertion sort, pass by value",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasey8540/insertion-sort.git"
+  },
+  "keywords": [
+    "insertion",
+    "sort",
+    "sort",
+    "sorting",
+    "insertion",
+    "sort",
+    "descending",
+    "algorithm"
+  ],
+  "author": "Mike Casey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcasey8540/insertion-sort/issues"
+  },
+  "homepage": "https://github.com/mcasey8540/insertion-sort#readme"
+}
