@@ -1,5 +1,7 @@
 # insertion-sort
-A library of common dependency-free insertion sort algorithms
+A library of common dependency-free insertion sort algorithms.
+
+Each insertion sort has the same time complexity and returns a sorted array. The original array remains untouched.
 
 example:
 
