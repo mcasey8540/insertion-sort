@@ -1,6 +1,6 @@
 {
   "name": "linear-search-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search an array linearly, Return index of array for found item or null",
   "main": "index.js",
   "scripts": {
