@@ -2,8 +2,8 @@
  * Search an array linearly in O(n) time complexity. Return index of array for found item or null.
  * 
  * @param  {Array} arrayToSearch - The array to be sorted.
- * @param  {Object} item - Item to search, integer or string.
- * @return {Integer} - array index or null.
+ * @param  {Object} item - The item to search, can be an integer or string.
+ * @return {Integer} - The array index or null if item is not found..
  */
 
 const linearSearchIndex = (arrayToSearch,item)=>{
